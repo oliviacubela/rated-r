@@ -1,0 +1,12 @@
+/Users/oliviacubela/rated-r/obj/Debug/netcoreapp2.1.22/RatedR.csprojAssemblyReference.cache
+/Users/oliviacubela/rated-r/obj/Debug/netcoreapp2.1.22/RatedR.AssemblyInfoInputs.cache
+/Users/oliviacubela/rated-r/obj/Debug/netcoreapp2.1.22/RatedR.AssemblyInfo.cs
+/Users/oliviacubela/rated-r/obj/Debug/netcoreapp2.1.22/RatedR.csproj.CoreCompileInputs.cache
+/Users/oliviacubela/rated-r/bin/Debug/netcoreapp2.1.22/RatedR.deps.json
+/Users/oliviacubela/rated-r/bin/Debug/netcoreapp2.1.22/RatedR.runtimeconfig.json
+/Users/oliviacubela/rated-r/bin/Debug/netcoreapp2.1.22/RatedR.runtimeconfig.dev.json
+/Users/oliviacubela/rated-r/bin/Debug/netcoreapp2.1.22/RatedR.dll
+/Users/oliviacubela/rated-r/bin/Debug/netcoreapp2.1.22/RatedR.pdb
+/Users/oliviacubela/rated-r/obj/Debug/netcoreapp2.1.22/RatedR.dll
+/Users/oliviacubela/rated-r/obj/Debug/netcoreapp2.1.22/RatedR.pdb
+/Users/oliviacubela/rated-r/obj/Debug/netcoreapp2.1.22/RatedR.genruntimeconfig.cache
